@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.2" />
+    </startup>
+  <appSettings>
+    <add key="PlatformID" value="10000261"/>
+    <add key="MerchantID" value="10000261"/>
+    <add key="AES_IV" value="LivoAluIi0zL5X9F"/>
+    <add key="AES_Key" value="Q88dNDnZUTh19lbPokDVP1KAClOP8PRu"/>
+    <add key="EncKeyID" value="45062"/>
+    <add key="ServerPubCer" value="MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtzxY8VvJTPP8rB9vksBV8eg+LCXL7n4LLUKZlS3UBKbEVrg3fPNZLsljbX0E8I1yKDxtcFoFtiilxdXygkNzI4CUMRn37+bX7fPHdyhlAzrN7hNydT/S6fcH/DpU40oJr37FOS51miMv3kx2l5HfU2fG0GVa1LDgleLaRoe3AXguLHkTUZfJFg288bGCBBsy5fGjyipCun/yRAKmjA8uA4cq0Fa+5M+kfAHUQfAk+Frg1dTt44wGt4JLQRdTIc6ytEz9Ta47lTapt/tkA7NWSgwJsSTYSxm4/T08JfrcFU9aF8dfSL+9bfIu9gJ6Kfc850svfcxJ5XdK7S7LangsQIDAQAB"/>
+    <add key="ClientPriCer" value="MIIEpAIBAAKCAQEApYZlnzI7bOeSniS+jjEsy9kuFznvZfFWM4/j+htCHR8XPte3
+MMpykb9MNnFRgcg1JQwpGybju6WJoM54MovNQJpsKDWFyi/NAOydLU7vO2p8w9ZL
+MsW4hLYgChvsl2MnrTtvwcMck0lMjDfDNRNr1/b3lxtUqh6PJ5quPaoAUwgAV0k8
+0SYTl+2ZGNDitMEmBZTbva/gXfeOyGPfjUCMDmwh7ON6BAGuL6J1KKwPmJuAxyX+
+58PyP8+LIBnwSz2xyHpTiq5Oty0MryCeJSSTr/45ZDNP/fgfD2uP3e2zvZKQM3s0
+ydDaTCooKjER2VIhk7duFDJvuztMUi8o2KD02QIDAQABAoIBAAIVMhlB9+eO2839
+UkZQETGvQqpC2oPEbBkbf447QnmpbvDMCy9qiLnTqwxihvJHxOVs5P9R6rRggmrh
+b9FBAZaFXh5WaBME4Kk/kPQlcpMWkknVKNHGrtb0Qx+lcM49DoS0EAJJ56wYLfkN
+gl/cJfOY4hr6ANBGlxBz3MS3xPSTSsSsdo7DSO0sOvuIQ4dh7hjeb+VQFerozWxa
+5qIsVrXKnzjxgUn/zGX1u6UbKJ69Yr5klWvaJbH5HzRK7huvG9/9SJ15R6Ql5Fl9
+xp8Rv3CipGJOyuYLo+47yoh5FhbmGdkWU1tSEEzayMIG9/dOVl5+msBQY+vlNuQ6
+LVlowBUCgYEA0LKpd2d2c5VoJiMK18Nq0BkEbJidk+t0vPSIt2tVTQ9LrDpRWM8u
+g/GuyfVXyFe1H24ydpnaNKIJddDuteAsUu3IvAmv1mMc3NpO8r7v627OujO05q+G
+HD4MTzVphJMS7gXRoI3a+Ndo7/2YawINcD05neZ9+/hSUloTqS9/yC0CgYEAywqz
+aXQ6RL1as1ccjrU4AzGMNSvQTmeT1jvARtO2qeKqXbYxwr1fm0DQSw/wQ39rcA2d
+pXFryFncYSTYjyWiQ12l3xp1gGgTcniomFcM7ynEz1f9BSn1CZPyIS0A/ZwW8LzP
+43lPwrekjADo7qb+oqT2R1lC8jymw8kOJEnXft0CgYAFta2fP6xk8yR7TqAgUQ9e
+DCEr220MO/fgp4wKAJy/0/hNCPdqx5hNMdKHYff52jRxXLFyvzjSEdDScVnmjfCI
+gErqohU2d1W10R8x0vl7ZnevbnS3jvvLUANEM4DkiKWO74fRra/c+P+8+SIvY0n8
+1R/7au/tcdjGugIpscv8LQKBgQDBPUT1d1XBeEmrZ5vZQiW1/GEJddKB3Fg6S5G6
+luJBG2WzXKRNR/iHBQ94cQnk4484DO1duO2wt71jgzLMQjAFV0p3ZHIyLFtd1fH3
+UtoPgLw77ez0DjOU0wZdhrxrojO/GKPuRdWgZzEmwfLut2afGsr9qrlpXEoHCgH4
+jYKXzQKBgQCmFBq3vsVp3+7pmJi6Nq6NLiRLLjJ2NrS6t9TNx5iYkkZZHKoZS3Bv
+kFaIkS6M24sYYne2PKl04QY+dmKn1QAbrPYTo3EhvzgJr4ynNwYYEOourIijP9PO
+Y6Kx9td8Q6EF8ASsQKkVwhfSXxGtXq8CA5by8SLQXow2/IIbQoQMHQ=="/>
+  </appSettings>
+</configuration>

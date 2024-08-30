@@ -1,0 +1,8 @@
+SELECT TOP (100) *
+  FROM [ICP_Member].[dbo].[Member_Basic] WITH(NOLOCK)
+  WHERE MID='1682011000694834'
+
+SELECT TOP (100) *
+  FROM [ICP_Member].[dbo].[Certificate_AesKey_Client] WITH(NOLOCK)
+  WHERE MID='1682011000000377'
+

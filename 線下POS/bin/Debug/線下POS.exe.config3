@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.2" />
+    </startup>
+  <appSettings>
+    <add key="PlatformID" value="10510133"/>
+    <add key="MerchantID" value="10510133"/>
+    <add key="AES_IV" value="NwC65zNUpgcyl9hp"/>
+    <add key="AES_Key" value="jTVJp7LTd7NoQM1ACKFHcjbppU00MTFF"/>
+    <add key="EncKeyID" value="46272"/>
+    <add key="ServerPubCer" value="MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn9sOKAZR3I6JuzhWF6U+bm+uRt4a+eQCYh6m2YumW4klIUibdXxVIAGkwH9RdN0tW41cnKDrXwhQ8Onki9eTxYPbQqZzsNmxGskouhqX0/YJ48WZp5jzjrLdacOzmNXMLCTY8GONN3O33BBQ2VrCb7bJBaoBPoDwCd4wrI3adkfTjy6mh1rAV+zIfFxTxNnzV7lA++IOguQ4en1nySVEvNOvrZr6xXmR4j9tlRJ7OOXi+UOXOYUrC6OTj35T5KekmAmTY56KmCUmutaG41dNAIe8tqCQ6V6EUHA0I+V04/k1MtwECEvFKRLRHnjWNkImPbFpDZqekE+4NOPgcvS4mQIDAQAB"/>
+    <add key="ClientPriCer" value="MIIEpAIBAAKCAQEAu2cG2/rSt42JnEQ6Vxmpvi5SGF1qRTiaHwICHLyPioGnmqfReSiK9nb+Sig+h6neAS6KEYTGgNs3H1UHghxU8I6YabSr6kMAh6xszelwiMZzZ5XKoo386eOdfc7o0XEnK/TfWUl8mEA60Zb+lLv0ee83fku3yHEPOGeZ7V5CWvi4kX3NZf7b8vLszKX5XAQxu5tdWN7GLTuAkQYwiCa8HqAwB1gogctPM2fP4w+khT3dN1woUW4NBbSd+ginSMnWCTIGHSm67aSVdlhW5Vza8AGOOJ8kNmjQ24jiwopmFSgIVODtsJgPO20HpAdwVdVWoubaZGsVT3Lh1gyrn2rhbQIDAQABAoIBAQCurvV83gvHHz7Tk+GRyREpfoH1xjXF+mHnX3balIV0hTDW/3FJ75nA7eBQ/bxztsqC7X+znsFt4Wk7YoYSKRif9zto5QmO3w/CZ94v/lZwmBOAzebJqXLEDfCDEfiBKmlqFuKOlup1/QEW1xnNSHo1ot9mcWwJgiG+4QthcIiHxE9JWp8oL3xjIXEuEnaS0UjUMRIGcvGlQY4ulg8DRlIFC2HkqRClU8fd6If2+yTnBWrhC5EuuqEvG2Nyc+wkAv40freCWwI2cuHnIZjubfOLDHP4ntq/30J99MjTUfu/nRQQX3FvcxpgHMvKM9v3Pcig6Xp2DSz98NF3bARMUjgdAoGBAMOVA41cS1fidSXU8E3hJFicS6iwlbXnjyJteWDiL8etfYHQReuz8eK0rUVyp8jTT+ZsjOeyMGRnLtY2UKRboavnHDqDRuUk49by7qg19JEBJsHvT18AlRtXTqhDYW1cnpKb/qwsnGZbghrmLRNI6tUNX3sqkzGPDtJIVkRuOSjDAoGBAPVLJwKN2oC9Gmdvtp9ifFTBe+yP5FrAQH3E26rewR7++005LNNc0pnGneth596Ahm9895lAi+bgQQkIrYlfuSzp5daGlg59VHhSEyAHRsoJI2ACWCqyAdiagw7XvNqGZ8s6yl7Jkv7sd8Na7UIau8gN+7BoinBMwHl5bqCnAKoPAoGAfKOpKNwJc89wgpSKM8dn50RrfuxR7CPOds03TgO3GVQ5qJG3DXeWjbhAuAJSZMwtnhXNUhafeky7b24bxDJU/H0C41Mnyf3RaPlWGEKSQhpuvaapeUyguVTRXq/aFdyxfZMGIGkpnp1wc33+ecy9QtsL3y0JssqNUnsg5ukragsCgYBgAOPpuf9U965H4Y9GXlNvELMh6UdkxW34S332KGzJZt6QYNpMdz3t9bCFGbKYgREcvXpivsKCwC50DLNu2sos6/aKue4tCZxv4x+dH3vzQxRXVVOQkk7qqb61pnZByO0Cu6XM53Pi1kYhbYsCnlf0epSRfLkCLuf+IyrLMdGuvQKBgQCWCK+bZQ1ioeLJf/wY98Ppnnz9AHGcazeYRJIihXcKHZmNFIb275TEjK/HSqsheawdFrSdaU1to4aUGwzxS8VZtIYyuJokhnmdOIK0wUpsJQ7v35nslx59HvUNc/fxG3zENh3qpFe0GePOjcgvPVF2f8441poz3kW1OUwariwgBQ=="/>
+  </appSettings>
+    <userSettings>
+    <線下POS.Properties.Settings>
+      <setting name="DefaultAESkey" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="DefaultAESIV" serializeAs="String">
+        <value />
+      </setting>
+    </線下POS.Properties.Settings>
+  </userSettings>
+</configuration>

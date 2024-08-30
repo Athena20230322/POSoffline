@@ -1,0 +1,95 @@
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\obj\Debug\線下POS.csprojAssemblyReference.cache
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\obj\Debug\線下POS.Form1.resources
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\obj\Debug\線下POS.Properties.Resources.resources
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\obj\Debug\線下POS.csproj.GenerateResource.cache
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\obj\Debug\線下POS.csproj.CoreCompileInputs.cache
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\bin\Debug\線下POS.exe.config
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\bin\Debug\線下POS.exe
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\bin\Debug\線下POS.pdb
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\bin\Debug\System.ValueTuple.dll
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\bin\Debug\System.ValueTuple.xml
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\obj\Debug\線下POS.csproj.CopyComplete
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\obj\Debug\線下POS.exe
+C:\Users\p10342969\Documents\Visual Studio 2017\Projects\線下POS\線下POS\obj\Debug\線下POS.pdb
+G:\temp\汪翊\線下POS\線下POS\bin\Debug\線下POS.exe.config
+G:\temp\汪翊\線下POS\線下POS\bin\Debug\線下POS.exe
+G:\temp\汪翊\線下POS\線下POS\bin\Debug\線下POS.pdb
+G:\temp\汪翊\線下POS\線下POS\bin\Debug\BouncyCastle.Crypto.dll
+G:\temp\汪翊\線下POS\線下POS\bin\Debug\Newtonsoft.Json.dll
+G:\temp\汪翊\線下POS\線下POS\bin\Debug\System.ValueTuple.dll
+G:\temp\汪翊\線下POS\線下POS\bin\Debug\Newtonsoft.Json.xml
+G:\temp\汪翊\線下POS\線下POS\bin\Debug\System.ValueTuple.xml
+G:\temp\汪翊\線下POS\線下POS\obj\Debug\線下POS.csprojAssemblyReference.cache
+G:\temp\汪翊\線下POS\線下POS\obj\Debug\線下POS.Form1.resources
+G:\temp\汪翊\線下POS\線下POS\obj\Debug\線下POS.Properties.Resources.resources
+G:\temp\汪翊\線下POS\線下POS\obj\Debug\線下POS.csproj.GenerateResource.cache
+G:\temp\汪翊\線下POS\線下POS\obj\Debug\線下POS.csproj.CoreCompileInputs.cache
+G:\temp\汪翊\線下POS\線下POS\obj\Debug\線下POS.csproj.CopyComplete
+G:\temp\汪翊\線下POS\線下POS\obj\Debug\線下POS.exe
+G:\temp\汪翊\線下POS\線下POS\obj\Debug\線下POS.pdb
+C:\Users\p10342969\Desktop\線下POS\線下POS\bin\Debug\線下POS.exe.config
+C:\Users\p10342969\Desktop\線下POS\線下POS\bin\Debug\線下POS.exe
+C:\Users\p10342969\Desktop\線下POS\線下POS\bin\Debug\線下POS.pdb
+C:\Users\p10342969\Desktop\線下POS\線下POS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\p10342969\Desktop\線下POS\線下POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p10342969\Desktop\線下POS\線下POS\bin\Debug\System.ValueTuple.dll
+C:\Users\p10342969\Desktop\線下POS\線下POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p10342969\Desktop\線下POS\線下POS\bin\Debug\System.ValueTuple.xml
+C:\Users\p10342969\Desktop\線下POS\線下POS\obj\Debug\線下POS.csprojAssemblyReference.cache
+C:\Users\p10342969\Desktop\線下POS\線下POS\obj\Debug\線下POS.Form1.resources
+C:\Users\p10342969\Desktop\線下POS\線下POS\obj\Debug\線下POS.Properties.Resources.resources
+C:\Users\p10342969\Desktop\線下POS\線下POS\obj\Debug\線下POS.csproj.GenerateResource.cache
+C:\Users\p10342969\Desktop\線下POS\線下POS\obj\Debug\線下POS.csproj.CoreCompileInputs.cache
+C:\Users\p10342969\Desktop\線下POS\線下POS\obj\Debug\線下POS.csproj.CopyComplete
+C:\Users\p10342969\Desktop\線下POS\線下POS\obj\Debug\線下POS.exe
+C:\Users\p10342969\Desktop\線下POS\線下POS\obj\Debug\線下POS.pdb
+C:\Users\p10342969\Desktop\POS線下\線下POS\bin\Debug\線下POS.exe.config
+C:\Users\p10342969\Desktop\POS線下\線下POS\bin\Debug\線下POS.exe
+C:\Users\p10342969\Desktop\POS線下\線下POS\bin\Debug\線下POS.pdb
+C:\Users\p10342969\Desktop\POS線下\線下POS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\p10342969\Desktop\POS線下\線下POS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p10342969\Desktop\POS線下\線下POS\bin\Debug\System.ValueTuple.dll
+C:\Users\p10342969\Desktop\POS線下\線下POS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p10342969\Desktop\POS線下\線下POS\bin\Debug\System.ValueTuple.xml
+C:\Users\p10342969\Desktop\POS線下\線下POS\obj\Debug\線下POS.csprojAssemblyReference.cache
+C:\Users\p10342969\Desktop\POS線下\線下POS\obj\Debug\線下POS.Form1.resources
+C:\Users\p10342969\Desktop\POS線下\線下POS\obj\Debug\線下POS.Properties.Resources.resources
+C:\Users\p10342969\Desktop\POS線下\線下POS\obj\Debug\線下POS.csproj.GenerateResource.cache
+C:\Users\p10342969\Desktop\POS線下\線下POS\obj\Debug\線下POS.csproj.CoreCompileInputs.cache
+C:\Users\p10342969\Desktop\POS線下\線下POS\obj\Debug\線下POS.csproj.CopyComplete
+C:\Users\p10342969\Desktop\POS線下\線下POS\obj\Debug\線下POS.exe
+C:\Users\p10342969\Desktop\POS線下\線下POS\obj\Debug\線下POS.pdb
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\bin\Debug\線下POS.exe.config
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\bin\Debug\線下POS.exe
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\bin\Debug\線下POS.pdb
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\bin\Debug\BouncyCastle.Crypto.dll
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\bin\Debug\Newtonsoft.Json.dll
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\bin\Debug\System.ValueTuple.dll
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\bin\Debug\Newtonsoft.Json.xml
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\bin\Debug\System.ValueTuple.xml
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\obj\Debug\線下POS.Form1.resources
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\obj\Debug\線下POS.Properties.Resources.resources
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\obj\Debug\線下POS.csproj.GenerateResource.cache
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\obj\Debug\線下POS.csproj.CoreCompileInputs.cache
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\obj\Debug\線下POS.csproj.CopyComplete
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\obj\Debug\線下POS.exe
+G:\系統開發與維護一TEAM\TMP\林庭笙_Temp\POS線下\線下POS\obj\Debug\線下POS.pdb
+C:\POS線下\線下POS\bin\Debug\線下POS.exe.config
+C:\POS線下\線下POS\bin\Debug\線下POS.exe
+C:\POS線下\線下POS\bin\Debug\線下POS.pdb
+C:\POS線下\線下POS\bin\Debug\BouncyCastle.Crypto.dll
+C:\POS線下\線下POS\bin\Debug\Newtonsoft.Json.dll
+C:\POS線下\線下POS\bin\Debug\System.ValueTuple.dll
+C:\POS線下\線下POS\bin\Debug\Newtonsoft.Json.xml
+C:\POS線下\線下POS\bin\Debug\System.ValueTuple.xml
+C:\POS線下\線下POS\obj\Debug\線下POS.csproj.AssemblyReference.cache
+C:\POS線下\線下POS\obj\Debug\線下POS.Form1.resources
+C:\POS線下\線下POS\obj\Debug\線下POS.Properties.Resources.resources
+C:\POS線下\線下POS\obj\Debug\線下POS.csproj.GenerateResource.cache
+C:\POS線下\線下POS\obj\Debug\線下POS.csproj.CoreCompileInputs.cache
+C:\POS線下\線下POS\obj\Debug\線下POS.csproj.CopyComplete
+C:\POS線下\線下POS\obj\Debug\線下POS.exe
+C:\POS線下\線下POS\obj\Debug\線下POS.pdb
